@@ -1,0 +1,8 @@
+body {
+  background:rgba(128,8,77,.5);
+  text-align:center;
+}
+.mrt {
+  font-family:monospace;
+  color:rgb(0,127,99);
+}
